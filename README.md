@@ -108,7 +108,7 @@ The project combines **website development**, **data analytics**, and **business
 ![Insights Dashboard Part B](assets/screenshots/business-insights-2.png)  
 
 ### 💹 Power BI Dashboard Overall Summary
-![Power BI Dashboard Overall Summary](assets/screenshots/Overall-summary.png)  
+![Power BI Dashboard Overall Summary](assets/screenshots/overall-summary.png)  
 
 ### 💹 Power BI Dashboard Category Deep Dive
 ![Power BI Dashboard Category Deep Dive](assets/screenshots/catalogue-deep-dive.png)  
