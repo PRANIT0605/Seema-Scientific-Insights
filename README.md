@@ -96,15 +96,16 @@ The project combines **website development**, **data analytics**, and **business
 ## 📸 Visual Gallery  
 
 ### 🖼 Homepage Preview  
-![Homepage Screenshot](assets/screenshots/homepage.png)  
+![Homepage Screenshot](assets/screenshots/home-page.png)  
+![Contact Us Screenshot](assets/screenshots/photos-1.png)  
 
 ### 📈 Insights Page  
-![Insights Dashboard](assets/screenshots/insights_dashboard.png)  
-
+![Insights Dashboard Part A](assets/screenshots/business-insights-1.png)  
+![Insights Dashboard Part B](assets/screenshots/business-insights-2.png)  
 ### 💹 Power BI Dashboard  
-![Power BI Sales Summary](assets/screenshots/sales_report.png)  
+![Power BI Dashboard Overall Summary](assets/screenshots/Overall-summary.png)  
+![Power BI Dashboard Catalogue Deep Dive](assets/screenshots/catalogue-deep-dive.png)  
 
-*(Add your real screenshots to `assets/screenshots/` folder.)*
 
 ---
 
