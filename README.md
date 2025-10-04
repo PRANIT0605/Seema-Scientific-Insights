@@ -30,29 +30,35 @@ The project combines **website development**, **data analytics**, and **business
 
 ## 🧩 Repository Structure  
 
+<details>
+<summary>📁 Click to view Repository Structure</summary>
+
 SeemaScientific-Insights/
 │
-├── README.md # Project documentation
-├── PowerBI_Dashboard.pbix # Main interactive dashboard
+├── README.md
+├── PowerBI_Dashboard.pbix
 │
-├── 📊 data/
+├── data/
+│ ├── raw_data.csv
+│ ├── cleaned_data.csv
 │ └── data_dictionary.md
 │
-├── 📓 notebooks/
+├── notebooks/
 │ ├── sales_trend_analysis.ipynb
 │ ├── product_segmentation.ipynb
+│ └── regional_demand_forecast.ipynb
 │
-├── 📈 presentations/
+├── presentations/
 │ ├── Business_Insights_Presentation.pdf
 │ └── Marketing_Strategy_Presentation.pdf
 │
-├── 📂 website/
+├── website/
 │ ├── index.html
 │ ├── insights.html
 │ ├── style.css
 │ └── assets/
 │
-└── 📷 assets/
+└── assets/
 ├── screenshots/
 │ ├── homepage.png
 │ ├── insights_dashboard.png
@@ -61,6 +67,7 @@ SeemaScientific-Insights/
 └── logo.png
 
 
+</details>
 ---
 
 ## 💻 Tech Stack  
