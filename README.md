@@ -140,8 +140,7 @@ The project combines **website development**, **data analytics**, and **business
 ## 🔗 Important Links  
 
 - 🌐 **Website:** [https://www.seemascientific.com/](https://www.seemascientific.com/)  
-- 💾 **Insights Repository:** *(Add your GitHub link here)*  
-- 📊 **Power BI File:** *(Link or attach preview)*  
+- 💾 **Insights Repository:** *[https://github.com/PRANIT0605/Seema-Scientific-Insights.git]*  
 - 🧑‍💼 **Developer:** [LinkedIn – Pranit Gore](https://www.linkedin.com/in/pranit-gore-90097a274)  
 
 ---
