@@ -96,15 +96,22 @@ The project combines **website development**, **data analytics**, and **business
 ## 📸 Visual Gallery  
 
 ### 🖼 Homepage Preview  
-![Homepage Screenshot](assets/screenshots/home-page.png)  
+![Homepage Screenshot](assets/screenshots/home-page.png) 
+
+### 🖼 Contact Us Preview 
 ![Contact Us Screenshot](assets/screenshots/photos-1.png)  
 
-### 📈 Insights Page  
+### 📈 Insights Page Part A 
 ![Insights Dashboard Part A](assets/screenshots/business-insights-1.png)  
+
+### 📈 Insights Page Part B 
 ![Insights Dashboard Part B](assets/screenshots/business-insights-2.png)  
-### 💹 Power BI Dashboard  
+
+### 💹 Power BI Dashboard Overall Summary
 ![Power BI Dashboard Overall Summary](assets/screenshots/Overall-summary.png)  
-![Power BI Dashboard Catalogue Deep Dive](assets/screenshots/catalogue-deep-dive.png)  
+
+### 💹 Power BI Dashboard Category Deep Dive
+![Power BI Dashboard Category Deep Dive](assets/screenshots/catalogue-deep-dive.png)  
 
 
 ---
@@ -115,8 +122,6 @@ The project combines **website development**, **data analytics**, and **business
 |------|--------------|
 | **Business_Insights_Presentation.pdf** | Overview of insights, findings, and key recommendations. |
 | **Marketing_Strategy_Presentation.pdf** | Visual pitch summarizing how data supports marketing goals. |
-
-*(These files help recruiters or collaborators understand the business angle quickly.)*
 
 ---
 
