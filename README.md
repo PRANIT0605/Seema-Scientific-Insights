@@ -28,7 +28,10 @@ The project combines **website development**, **data analytics**, and **business
 | 🎓 Portfolio Enhancement | Demonstrate end-to-end data science integration for business operations. |
 
 ---
-
+## How the analysis helps Seema Scientific-
+- This analysis helps target the most items sold which the company used to stock/ manage B2B sales.
+- This analysis provided trends on respective categories and their growth over the years, with respect to each curriculum.
+- Detailed Audience Distribution which the company used for budgetting and marketting ahead.
 
 ## 💻 Tech Stack  
 
@@ -163,5 +166,6 @@ Also grateful to mentors and peers who provided insights into the Power BI dashb
 ---
 
 > _“Turning scientific data into business intelligence – one dashboard at a time.”_ 🚀
+
 
 
