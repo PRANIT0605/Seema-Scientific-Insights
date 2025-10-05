@@ -169,11 +169,11 @@ Also grateful to mentors and peers who provided insights into the Power BI dashb
 
 
 About Me-
-My name is Pranit Gore, Computer Engineer and UK Patent Holder on neurological device integrating seizure prediction. I am a researcher with a strong interest in Biomedical AI. Being a freelancer by heart, I consider this project as a part of my personal portfolio website for demonstrating my capability of dealing with company's sensitive data and derive insights accordingly.
+## **My name is Pranit Gore, Computer Engineer and UK Patent Holder on neurological device integrating seizure prediction. I am a researcher with a strong interest in Biomedical AI. Being a freelancer by heart, I consider this project as a part of my personal portfolio website for demonstrating my capability of dealing with company's sensitive data and derive insights accordingly.**
 
-You can contact me for projects/ connection opportunities-
-Email ID: [pranitgore05@gmail.com](pranitgore05@gmail.com)
-LinkedIn ID: [Linkedin URL](http://www.linkedin.com/in/pranit-gore-90097a274)
-Contact : +91 8999290255
+## You can contact me for projects/ connection opportunities-
+## Email ID: pranitgore05@gmail.com
+## LinkedIn ID: [Linkedin URL](http://www.linkedin.com/in/pranit-gore-90097a274)
+## Contact : +91 8999290255
 
 
