@@ -12,8 +12,7 @@ This repository documents the **official website** and **business insights dashb
 The project combines **website development**, **data analytics**, and **business intelligence** to modernize the company’s digital presence and leverage data-driven insights for better decision-making.  
 
 🔗 **Live Website:** [https://www.seemascientific.com/](https://www.seemascientific.com/)  
-📊 **Insights Repository:** *(Add your GitHub repo link here)*  
-📘 **Power BI Dashboard:** *(Add Power BI file or link to preview screenshots)*  
+📊 **Insights Repository:** [Repository Link](https://github.com/PRANIT0605/Seema-Scientific-Insights)
 
 ---
 
@@ -61,22 +60,18 @@ The project combines **website development**, **data analytics**, and **business
 ## 📊 Business Insights Delivered  
 
 ### 📍 Product Sales Overview  
-- Identified top-performing product categories contributing **X%** of total revenue.  
-- Seasonal sales trends show a **Y% increase** during academic admission periods.
+- Identified Lab Glassware to be the top-performing product categories contributing **27%** of total revenue.  
+- Seasonal sales trends show a **35% increase** in scientific instruments during academic admission periods.
 
 ### 📍 Customer Segmentation  
 - Clustered customers into **institutional** vs **individual** buyers using K-Means.  
-- Regional segmentation highlighted high demand zones in *Maharashtra* and *Gujarat*.  
-
-### 📍 Inventory Optimization  
-- Suggested reorder thresholds using historical stock depletion data.  
-- Improved average stock turnover ratio by approximately **Z%**.  
+- Regional segmentation highlighted high demand zones in *Pune*, *Lonavala* and *Mumbai*.
+  
 
 ### 📍 Forecasting & Prediction  
 - Applied ARIMA and Linear Regression for monthly sales prediction.  
 - Forecasted **Q4 demand** within ±3% of observed values.  
 
-*(Replace X, Y, Z with actual values once you finalize analysis.)*
 
 ---
 
@@ -120,8 +115,8 @@ The project combines **website development**, **data analytics**, and **business
 
 | File | Description |
 |------|--------------|
-| **Business_Insights_Presentation.pdf** | Overview of insights, findings, and key recommendations. |
-| **Marketing_Strategy_Presentation.pdf** | Visual pitch summarizing how data supports marketing goals. |
+| **Seema_Scientific_Business_Insights.ppt** | Overview of insights, findings, and key recommendations. |
+
 
 ---
 
