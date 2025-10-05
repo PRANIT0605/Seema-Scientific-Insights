@@ -1,4 +1,4 @@
-[ss-logo.jpg]
+![Seema Scientific Logo](ss-logo.jpg)
 
 # 🌐 Seema Scientific – Official Website & Business Insights Dashboard  
 
