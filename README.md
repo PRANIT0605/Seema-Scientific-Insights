@@ -1,3 +1,5 @@
+[ss-logo.jpg]
+
 # 🌐 Seema Scientific – Official Website & Business Insights Dashboard  
 
 > **Live Project** | Real client deployment for a Pune-based scientific materials supplier  
